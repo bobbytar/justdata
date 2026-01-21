@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 97.5 97.2">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        isolation: isolate;
+      }
+
+      .cls-1, .cls-3, .cls-4 {
+        font-family: MyriadPro-Bold, 'Myriad Pro';
+        font-weight: 700;
+      }
+
+      .cls-1, .cls-3, .cls-6, .cls-7 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-4, .cls-5 {
+        font-size: 12.24px;
+      }
+
+      .cls-8 {
+        fill: #231f20;
+      }
+
+      .cls-3 {
+        font-size: 24px;
+      }
+
+      .cls-9 {
+        letter-spacing: 0em;
+      }
+
+      .cls-10 {
+        fill: #30a23e;
+      }
+
+      .cls-6, .cls-7 {
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-11 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-7 {
+        stroke-width: 2px;
+      }
+
+      .cls-12 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <rect class="cls-10" x="15.23" y="15.23" width="66.73" height="66.73" transform="translate(-20.13 48.6) rotate(-45)"/>
+      <path class="cls-8" d="M48.6,2.83l45.77,45.77-45.77,45.77L2.83,48.6,48.6,2.83M48.6,0L0,48.6l48.6,48.6,48.6-48.6L48.6,0h0Z"/>
+    </g>
+    <rect class="cls-7" x="14.86" y="69.83" width="67.48" height="18.28"/>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(32.92 83.6)"><tspan x="0" y="0">N</tspan><tspan class="cls-12" x="8.05" y="0">A</tspan><tspan class="cls-9" x="15.5" y="0">ME</tspan></text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(32.92 83.6)"><tspan x="0" y="0">N</tspan><tspan class="cls-12" x="8.05" y="0">A</tspan><tspan class="cls-9" x="15.5" y="0">ME</tspan></text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(32.92 83.6)"><tspan x="0" y="0">N</tspan><tspan class="cls-12" x="8.05" y="0">A</tspan><tspan class="cls-9" x="15.5" y="0">ME</tspan></text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-4" transform="translate(31.91 83.6)"><tspan x="0" y="0">NAME</tspan></text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-1" transform="translate(33.69 63.3)"><tspan class="cls-11" x="0" y="0">T</tspan><tspan x="5.83" y="0">ANK</tspan></text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-3" transform="translate(11.2 55.39)"><tspan x="0" y="0">6</tspan></text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-3" transform="translate(72.2 55.39)"><tspan x="0" y="0">7</tspan></text>
+    </g>
+    <g>
+      <path class="cls-6" d="M89.09,22.59h-24.84l-4.46-1.27-1.26,2.19v-2.19l-4.15-9.87h-1.91l2.23,11.15-3.77-6.53h-1.16l-.64,5.74-1.75-6.85h-1.91v8.6h-9.62c1.35-.59,2.3-1.93,2.3-3.5,0-2.11-1.71-3.82-3.82-3.82s-3.82,1.71-3.82,3.82c0,.81.26,1.56.69,2.18l-8.49,1.48-10.51,1.43-9.87.8,1.11,3.03-1.11,3.03,9.87.8,10.51,1.43,4.57.8h-10.06v.96h13.53v-.35l3.76.66,1.1-1.9h9.87v8.6h1.91l1.75-6.85.64,5.74h1.16l3.77-6.53-1.47,7.33c-2.02.1-3.63,1.77-3.63,3.81s1.71,3.82,3.82,3.82,3.82-1.71,3.82-3.82c0-1.27-.62-2.39-1.57-3.08l2.86-6.79v-2.19l1.26,2.19,6.69-1.91,6.05-1.75h16.56v-7.96h-16.56l-4.95-1.43h21.51v-.96Z"/>
+      <polygon class="cls-6" points="87.66 30.07 55.65 30.07 46.62 27.21 94.89 27.21 87.66 30.07"/>
+    </g>
+  </g>
+</svg>
