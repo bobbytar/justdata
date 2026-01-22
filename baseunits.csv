@@ -1,0 +1,7 @@
+Base Units
+Unit,Speed,Defence,Attack,Range
+Space Tank,2,3,6,6
+Transport,4,3,0,0
+Infantry,1,1,2,1
+Fighter,3,2,3,2
+Station,0,4,0,0
