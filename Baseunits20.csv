@@ -1,6 +1,7 @@
 Unit,Speed,Defence,Attack,Range,,
-Space Tank,2,10,20,8,,
-Transport,6,10,0,0,,
+Space Tank,2,15,20,8,,
+Transport,6,13,0,0,,
 Infantry,1,5,8,1,,
 Fighter,4,8,10,3,,
-Station,0,15,0,0,,
+Station,0,18,0,0,,
+
